@@ -387,3 +387,16 @@ footer .footer-below {
   opacity: 0;
   display: none;
 }
+
+#logo {
+  display: inline-block;
+  margin-top: -10px;
+  max-height: 40px;
+}
+
+.navbar-default a.navbar-brand:hover,
+.navbar-default a.navbar-brand:focus,
+.navbar-default a.navbar-brand:active,
+.navbar-default a.navbar-brand.active {
+  color: white;
+}
